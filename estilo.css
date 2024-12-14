@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    margin: 20px auto;
+    padding: 5px;
+    width: 900px;
+}
+.logo{
+    width: 200px;
+}
+.logotipo{
+    text-align: center;
+}
+.sub-titulo{
+    line-height: 40px;
+    text-align: center;
+}
+.tatuage{
+    width: 700px;
+    border: 3px solid white;
+}
+.conteudo{
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+.negrito{
+    font-weight:bold;
+}
+.red{
+    font-weight: bold;
+    color: red;
+}
+.redes-sociais{
+    text-align: center;
+    font-size: 20px;
+}
+.redes{
+    width: 50px;
+    padding: 5px;
+    border: 3px solid white;
+}
+a{
+    text-decoration: none;
+}
